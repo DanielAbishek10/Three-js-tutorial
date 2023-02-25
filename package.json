@@ -1,0 +1,22 @@
+{
+  "name": "three-js-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAbishek10/Three-js-tutorial.git"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielAbishek10/Three-js-tutorial/issues"
+  },
+  "homepage": "https://github.com/DanielAbishek10/Three-js-tutorial#readme",
+  "dependencies": {
+    "three": "^0.150.0"
+  }
+}
